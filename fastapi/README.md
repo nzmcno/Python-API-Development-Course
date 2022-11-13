@@ -19,4 +19,6 @@ source venv/bin/activate
 deactivate
 ```
 
+source: https://sourabhbajaj.com/mac-setup/
+
 **Important**: Remember to add venv to your project's .gitignore file so you don't include all of that in your source code.

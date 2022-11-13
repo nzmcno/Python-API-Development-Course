@@ -1,0 +1,35 @@
+Ugly Python code hurts.
+
+Following best practices makes maintainability and collaboration easy.
+
+Here are some tools to improve your Python code and project quality:
+
+
+-black: PEP8-compliant Code formatter. No more hand-formatting.
+
+-mypy: Static type checker.
+
+-pytest: Testing tool - from small unit tests to complex functional tests.
+
+-flake8: Linter to prevent bugs, incorrect styling, etc. in your program.
+
+-autoflake: Removes unused imports and variables.
+
+-isort: Sorts your imports in the correct order as per PEP8.
+
+-pydocstyle: Checking compliance with Python docstring conventions.
+
+-nbstripout: Strips outputs of your notebooks if you don’t want to track the output in git.
+
+-bandit: Finds security issues in your Python code.
+
+-pre-commit: Define Git hooks that run before or after git commands are executed. So your checks and formatters like flake8 and black run automatically before committing them.
+
+-poetry: Python Packaging and Dependency Manager. Makes sure your project doesn’t break due to incompatibility after adding a new library.
+
+-pyenv: Python Version Management. Define Python versions for specific projects and switch between them easily.
+
+-Makefile: Automate common tasks like setting up your environment.
+
+
+Save this post for your next Python project.
